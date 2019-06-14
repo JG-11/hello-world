@@ -1,4 +1,4 @@
-Hola mundo, esta es mi historia:
+Hola mundo:
 
 Mi nombre es Genaro Almaraz, tengo 19 años y estudio la licenciatura en Ciencias Computacionales.
 
