@@ -1,0 +1,28 @@
+Configurar las llaves SSH en local:
+
+1. Generar las llaves SSH (es muy buena idea proteger la llave privada con contraseña).
+ssh-keygen -t rsa -b 4096 -C "mi@correo.com"
+
+2. Terminar de configurar nuestro sistema.
+En Windows y Linux
+//Encender el "servidor" de llaves SSH de mi computadora:
+eval $(ssh-agent -s)
+
+//Agregar la llave SSH a este "servidor":
+ssh-add ruta-donde-guardé-mi-llave-privada
+
+En Mac
+eval "$(ssh-agent -s)"
+
+//Si usamos una versión de OSX superior a Mac Sierra (v10.12), creamos o modificamos el archivo config en la carpeta donde guardé mi llave privada (hay que tener cuidado con las mayúsculas):
+Host *
+	AddKeysToAgent yes
+	UseKeychain yes
+	IdentityFile ruta-donde-guardé-mi-llave-privada
+
+//En caso de error al agregar la llave SSH al "servidor" de llaves SSH de la computadora, podemos ejecutar el mismo comando siguiente pero sin el argumento -K:
+ssh-add -K ruta-donde-guardé-mi-llave-privada
+
+ 
+
+
