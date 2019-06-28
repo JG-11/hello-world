@@ -24,5 +24,8 @@ Host *
 ssh-add -K ruta-donde-guardé-mi-llave-privada
 
  
+Crear múltiples cuentas de git (y múltiples llaves SSH)-> https://platzi.com/tutoriales/1557-git-github/1751-multiples-cuentas-de-git/
+
+P.D. Gracias Platzi por enseñarme!
 
 
