@@ -8,8 +8,14 @@ p {
 h1 {
   text-align: center;
   font-weight: bold;
+  font-family: helvetica;
+  color: white;
 }
 
 body {
-  background-color: #F0F0F0;
+  background-color: white;
+}
+
+.heading {
+  background-color: blue;
 }
