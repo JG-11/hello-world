@@ -1,6 +1,6 @@
 p {
   font-family: verdana;
-  color: blue;
+  color: green;
   font-size: 20px;
   text-align: center;
 }
@@ -8,4 +8,8 @@ p {
 h1 {
   text-align: center;
   font-weight: bold;
+}
+
+body {
+  background-color: #F0F0F0;
 }
