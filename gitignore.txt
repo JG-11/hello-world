@@ -7,3 +7,6 @@ Si el archivo ya se encuentra en mi repositorio, se puede hacer lo siguiente:
 1. Tecleamos git rm --cached keys.js (esto quita el archivo del repositorio y lo devuelve
 a mi working directory como "untracked")
 2. Agregamos el texto keys.js a nuestro archivo .gitignore.
+
+
+//Sitio web para crear archivos .gitignore demasiado útiles: https://www.gitignore.io
