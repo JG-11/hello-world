@@ -1,0 +1,11 @@
+Consejos para crear archivos README.md:
+
+1. Usa emblemas (badges) que informen a otros desarrolladores sobre el estado de tu desarrollo (actualización, versión, licencia). Puedes encontrar o crear badges en https://shields.io/.
+2. Puedes colocar atajos (follow, fork, issue, download) en tu repositorio que inviten a la acción. Aquí algunos atajos https://buttons.github.io/.
+3. Los repositorios más votados son aquellos que tienen un manual de contribución y un código de conducta. Ejemplos en inglés: https://gist.github.com/PurpleBooth/b24679402957c63ec426, https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
+4. Puedes agregar emojis (https://www.webfx.com/tools/emoji-cheat-sheet/) en tu archivo README y en tus commits. Algunos trucos para los mensajes en tus commits: https://platzi.com/tutoriales/1557-git-github/1566-trucos-en-mensajes-de-los-commits-para-github/.
+5. Como última recomendación, puedes hacer un archivo README en inglés para que tus repositorios lleguen a un público mucho mayor.
+
+Créditos a ManuelFGil (https://platzi.com/@ManuelFGil).
+
+//Enlace al comentario: https://platzi.com/comentario/598460/.
