@@ -1,8 +1,8 @@
 # hello-world
-My first repository!!
+**This is my first repository!!** It was created in 2017.
 
-This is an example of a little change on this branch, in order to edit the master branch.
+This project includes *a little description about me, and useful information about .gitignore files, markdown, and SSH connections*.
 
-I'm just playing adding now this line of text.
+I hope you enjoy it! **Let's code!**
 
-I'm just playing 2 years after adding this other line of text.
+> You can build your own things that other people can use. And once you learn that, you'll never be the same again. -Steve Jobs
