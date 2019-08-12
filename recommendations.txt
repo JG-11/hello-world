@@ -9,3 +9,5 @@ Consejos para crear archivos README.md:
 Créditos a ManuelFGil (https://platzi.com/@ManuelFGil).
 
 //Enlace al comentario: https://platzi.com/comentario/598460/.
+
+Alias propuestos por Harry Roberts: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/
